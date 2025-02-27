@@ -5,3 +5,4 @@ this is second line.
 this is third line.
 
 adding new line in main branch.
+adding new line in uat to study the merge conflict.
